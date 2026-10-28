@@ -1,0 +1,6 @@
+raytracer
+build/
+plugins/
+output.ppm
+*.ppm
+.DS_Store
